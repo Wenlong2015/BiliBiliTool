@@ -22,7 +22,7 @@ BiliBiliTool
 
 <!-- TOC depthFrom:2 -->
 
-- [1. 如何使用](#1-如何使用)
+- [1. 如何使用](#1--如何使用)
     - [1.1. 第一步：获取自己的 Cookie](#11-第一步获取自己的-cookie)
     - [1.2. 第二步：配置 Cookie 并运行 BiliBiliTool](#12-第二步配置-cookie-并运行-bilibilitool)
         - [1.2.1. 运行方式一（推荐）：Github Actions 每天定时线上自动运行](#121-运行方式一推荐github-actions-每天定时线上自动运行)
@@ -50,7 +50,7 @@ BiliBiliTool
 
 **Github 仓库地址：[RayWangQvQ/BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool)**
 
-**注意：本应用仅用于学习和测试，作者本人并不对其负责，请于运行测试完成后自行删除。自觉爱护小破站，请勿滥用！**
+**注意：本应用仅用于学习和测试，作 者本人并不对其负责，请于运行测试完成后自行删除。自觉爱护小破站，请勿滥用！**
 
 _（如果图片挂了，是因为 GitHub 的服务器在国外，经常会刷不出，有 VPN 的开启 VPN，没有的也可先先参考 [我的博客](https://www.cnblogs.com/RayWang/p/13909784.html)，但博客内容不保证最新)_
 
